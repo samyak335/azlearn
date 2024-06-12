@@ -1,0 +1,7 @@
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\learnapp.exe
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\appsettings.Development.json
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\appsettings.json
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\learnapp.dll
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\learnapp.deps.json
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\learnapp.runtimeconfig.json
+C:\Users\samyak.kalisetti_ist\Videos\azlearnc#\learnapp\bin\Publish\learnapp.pdb
